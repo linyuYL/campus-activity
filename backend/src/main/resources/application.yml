@@ -1,0 +1,21 @@
+server:
+  address: ${BIND_ADDRESS:127.0.0.1}
+  port: ${PORT:8080}
+  error:
+    include-message: never
+spring:
+  profiles:
+    default: demo
+  datasource:
+    hikari:
+      maximum-pool-size: 12
+      connection-timeout: 2000
+  jackson:
+    time-zone: Asia/Shanghai
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health
+campus:
+  demo-login: false

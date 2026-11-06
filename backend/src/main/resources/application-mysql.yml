@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: ${DB_URL:jdbc:mysql://localhost:3306/campus?connectionTimeZone=UTC&forceConnectionTimeZoneToSession=true&useUnicode=true&characterEncoding=UTF-8}
+    username: ${DB_USER:campus}
+    password: ${DB_PASSWORD}
+    hikari:
+      connection-init-sql: SET SESSION innodb_lock_wait_timeout=1
+  flyway:
+    locations: classpath:db/migration,classpath:db/mysql
+campus:
+  demo-login: ${DEMO_LOGIN:false}
