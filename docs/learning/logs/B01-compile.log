@@ -1,0 +1,33 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< com.campus:campus-activity-server >------------------
+[INFO] Building campus-activity-server 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[WARNING] The POM for org.springframework.boot:spring-boot-starter-web:jar:4.1.1 is missing, no dependency information available
+[WARNING] The POM for com.baomidou:mybatis-plus-spring-boot4-starter:jar:3.5.18.1 is missing, no dependency information available
+[WARNING] The POM for com.baomidou:mybatis-plus-jsqlparser:jar:3.5.18.1 is missing, no dependency information available
+[WARNING] The POM for com.aliyun.oss:aliyun-sdk-oss:jar:3.18.5 is missing, no dependency information available
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.495 s
+[INFO] Finished at: 2026-11-12T09:57:10+08:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal on project campus-activity-server: Could not resolve dependencies for project com.campus:campus-activity-server:jar:1.0.0
+[ERROR] dependency: org.springframework.boot:spring-boot-starter-web:jar:4.1.1 (compile)
+[ERROR] 	Cannot access aliyunmaven (https://maven.aliyun.com/repository/public) in offline mode and the artifact org.springframework.boot:spring-boot-starter-web:jar:4.1.1 has not been downloaded from it before.
+[ERROR] dependency: com.baomidou:mybatis-plus-spring-boot4-starter:jar:3.5.18.1 (compile)
+[ERROR] 	Cannot access aliyunmaven (https://maven.aliyun.com/repository/public) in offline mode and the artifact com.baomidou:mybatis-plus-spring-boot4-starter:jar:3.5.18.1 has not been downloaded from it before.
+[ERROR] dependency: com.baomidou:mybatis-plus-jsqlparser:jar:3.5.18.1 (compile)
+[ERROR] 	Cannot access aliyunmaven (https://maven.aliyun.com/repository/public) in offline mode and the artifact com.baomidou:mybatis-plus-jsqlparser:jar:3.5.18.1 has not been downloaded from it before.
+[ERROR] dependency: com.aliyun.oss:aliyun-sdk-oss:jar:3.18.5 (compile)
+[ERROR] 	Cannot access aliyunmaven (https://maven.aliyun.com/repository/public) in offline mode and the artifact com.aliyun.oss:aliyun-sdk-oss:jar:3.18.5 has not been downloaded from it before.
+[ERROR] 
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/DependencyResolutionException

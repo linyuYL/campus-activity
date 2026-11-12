@@ -1,0 +1,1213 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< com.campus:campus-activity-server >------------------
+[INFO] Building campus-activity-server 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/springframework/boot/spring-boot-starter-web/4.1.1/spring-boot-starter-web-4.1.1.pom
+Progress (1): 2.8 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/springframework/boot/spring-boot-starter-web/4.1.1/spring-boot-starter-web-4.1.1.pom (2.8 kB at 3.1 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring-boot4-starter/3.5.18.1/mybatis-plus-spring-boot4-starter-3.5.18.1.pom
+Progress (1): 2.0/4.0 kB
+Progress (1): 4.0 kB    
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring-boot4-starter/3.5.18.1/mybatis-plus-spring-boot4-starter-3.5.18.1.pom (4.0 kB at 26 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus/3.5.18.1/mybatis-plus-3.5.18.1.pom
+Progress (1): 2.6 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus/3.5.18.1/mybatis-plus-3.5.18.1.pom (2.6 kB at 23 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-core/3.5.18.1/mybatis-plus-core-3.5.18.1.pom
+Progress (1): 2.2 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-core/3.5.18.1/mybatis-plus-core-3.5.18.1.pom (2.2 kB at 17 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-annotation/3.5.18.1/mybatis-plus-annotation-3.5.18.1.pom
+Progress (1): 1.4 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-annotation/3.5.18.1/mybatis-plus-annotation-3.5.18.1.pom (1.4 kB at 7.8 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring/3.5.18.1/mybatis-plus-spring-3.5.18.1.pom
+Progress (1): 2.7 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring/3.5.18.1/mybatis-plus-spring-3.5.18.1.pom (2.7 kB at 15 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-extension/3.5.18.1/mybatis-plus-extension-3.5.18.1.pom
+Progress (1): 2.0/3.8 kB
+Progress (1): 3.8 kB    
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-extension/3.5.18.1/mybatis-plus-extension-3.5.18.1.pom (3.8 kB at 24 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/mybatis/mybatis-spring/4.1.0/mybatis-spring-4.1.0.pom
+Progress (1): 7.3/15 kB
+Progress (1): 15 kB    
+                   
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/mybatis/mybatis-spring/4.1.0/mybatis-spring-4.1.0.pom (15 kB at 131 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/mybatis/mybatis-parent/52/mybatis-parent-52.pom
+Progress (1): 7.2/50 kB
+Progress (1): 15/50 kB 
+Progress (1): 32/50 kB
+Progress (1): 48/50 kB
+Progress (1): 50 kB   
+                   
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/mybatis/mybatis-parent/52/mybatis-parent-52.pom (50 kB at 322 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring-boot-autoconfigure/3.5.18.1/mybatis-plus-spring-boot-autoconfigure-3.5.18.1.pom
+Progress (1): 3.0 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring-boot-autoconfigure/3.5.18.1/mybatis-plus-spring-boot-autoconfigure-3.5.18.1.pom (3.0 kB at 30 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring-boot-native-image/3.5.18.1/mybatis-plus-spring-boot-native-image-3.5.18.1.pom
+Progress (1): 1.2 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring-boot-native-image/3.5.18.1/mybatis-plus-spring-boot-native-image-3.5.18.1.pom (1.2 kB at 9.4 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-jsqlparser/3.5.18.1/mybatis-plus-jsqlparser-3.5.18.1.pom
+Progress (1): 2.0/2.4 kB
+Progress (1): 2.4 kB    
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-jsqlparser/3.5.18.1/mybatis-plus-jsqlparser-3.5.18.1.pom (2.4 kB at 14 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/github/jsqlparser/jsqlparser/5.4/jsqlparser-5.4.pom
+Progress (1): 7.3/38 kB
+Progress (1): 15/38 kB 
+Progress (1): 32/38 kB
+Progress (1): 38 kB   
+                   
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/github/jsqlparser/jsqlparser/5.4/jsqlparser-5.4.pom (38 kB at 181 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-jsqlparser-common/3.5.18.1/mybatis-plus-jsqlparser-common-3.5.18.1.pom
+Progress (1): 1.6 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-jsqlparser-common/3.5.18.1/mybatis-plus-jsqlparser-common-3.5.18.1.pom (1.6 kB at 12 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/aliyun/oss/aliyun-sdk-oss/3.18.5/aliyun-sdk-oss-3.18.5.pom
+Progress (1): 3.5/7.1 kB
+Progress (1): 7.1 kB    
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/aliyun/oss/aliyun-sdk-oss/3.18.5/aliyun-sdk-oss-3.18.5.pom (7.1 kB at 55 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/aliyun/aliyun-java-sdk-core/4.7.8/aliyun-java-sdk-core-4.7.8.pom
+Progress (1): 6.6/8.4 kB
+Progress (1): 8.4 kB    
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/aliyun/aliyun-java-sdk-core/4.7.8/aliyun-java-sdk-core-4.7.8.pom (8.4 kB at 55 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.pom
+Progress (1): 6.6 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.pom (6.6 kB at 59 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/httpcomponents/httpcomponents-client/4.5.14/httpcomponents-client-4.5.14.pom
+Progress (1): 5.1/15 kB
+Progress (1): 15 kB    
+                   
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/apache/httpcomponents/httpcomponents-client/4.5.14/httpcomponents-client-4.5.14.pom (15 kB at 113 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-runtime/4.0.9/jaxb-runtime-4.0.9.pom
+Progress (1): 7.2/11 kB
+Progress (1): 11 kB    
+                   
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-runtime/4.0.9/jaxb-runtime-4.0.9.pom (11 kB at 80 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-runtime-parent/4.0.9/jaxb-runtime-parent-4.0.9.pom
+Progress (1): 1.3 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-runtime-parent/4.0.9/jaxb-runtime-parent-4.0.9.pom (1.3 kB at 8.1 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-parent/4.0.9/jaxb-parent-4.0.9.pom
+Progress (1): 2.0/35 kB
+Progress (1): 18/35 kB 
+Progress (1): 35/35 kB
+Progress (1): 35 kB   
+                   
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-parent/4.0.9/jaxb-parent-4.0.9.pom (35 kB at 219 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-bom-ext/4.0.9/jaxb-bom-ext-4.0.9.pom
+Progress (1): 3.6 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-bom-ext/4.0.9/jaxb-bom-ext-4.0.9.pom (3.6 kB at 23 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-bom/4.0.9/jaxb-bom-4.0.9.pom
+Progress (1): 2.0/13 kB
+Progress (1): 13 kB    
+                   
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-bom/4.0.9/jaxb-bom-4.0.9.pom (13 kB at 94 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/eclipse/ee4j/project/2.0.4/project-2.0.4.pom
+Progress (1): 7.3/27 kB
+Progress (1): 15/27 kB 
+Progress (1): 27 kB   
+                   
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/eclipse/ee4j/project/2.0.4/project-2.0.4.pom (27 kB at 169 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-core/4.0.9/jaxb-core-4.0.9.pom
+Progress (1): 3.8 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-core/4.0.9/jaxb-core-4.0.9.pom (3.8 kB at 33 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/txw2/4.0.9/txw2-4.0.9.pom
+Progress (1): 1.9 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/txw2/4.0.9/txw2-4.0.9.pom (1.9 kB at 10 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-txw-parent/4.0.9/jaxb-txw-parent-4.0.9.pom
+Progress (1): 1.3 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-txw-parent/4.0.9/jaxb-txw-parent-4.0.9.pom (1.3 kB at 6.5 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/sun/istack/istack-commons-runtime/4.1.2/istack-commons-runtime-4.1.2.pom
+Progress (1): 1.6 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/sun/istack/istack-commons-runtime/4.1.2/istack-commons-runtime-4.1.2.pom (1.6 kB at 9.0 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/sun/istack/istack-commons/4.1.2/istack-commons-4.1.2.pom
+Progress (1): 3.6/26 kB
+Progress (1): 20/26 kB 
+Progress (1): 26 kB   
+                   
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/sun/istack/istack-commons/4.1.2/istack-commons-4.1.2.pom (26 kB at 192 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/bouncycastle/bcprov-jdk18on/1.79/bcprov-jdk18on-1.79.pom
+Progress (1): 1.1 kB
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/bouncycastle/bcprov-jdk18on/1.79/bcprov-jdk18on-1.79.pom (1.1 kB at 7.5 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/springframework/boot/spring-boot-starter-web/4.1.1/spring-boot-starter-web-4.1.1.jar
+Progress (1): 2.0/4.8 kB
+Progress (1): 4.8 kB    
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/springframework/boot/spring-boot-starter-web/4.1.1/spring-boot-starter-web-4.1.1.jar (4.8 kB at 20 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring-boot4-starter/3.5.18.1/mybatis-plus-spring-boot4-starter-3.5.18.1.jar
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus/3.5.18.1/mybatis-plus-3.5.18.1.jar
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring/3.5.18.1/mybatis-plus-spring-3.5.18.1.jar
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-annotation/3.5.18.1/mybatis-plus-annotation-3.5.18.1.jar
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-core/3.5.18.1/mybatis-plus-core-3.5.18.1.jar
+Progress (1): 2.0/25 kB
+Progress (1): 18/25 kB 
+Progress (1): 25 kB   
+Progress (2): 25 kB | 2.0/34 kB
+Progress (2): 25 kB | 18/34 kB 
+                              
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring-boot4-starter/3.5.18.1/mybatis-plus-spring-boot4-starter-3.5.18.1.jar (25 kB at 134 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/mybatis/mybatis-spring/4.1.0/mybatis-spring-4.1.0.jar
+Progress (1): 29/34 kB
+Progress (1): 32/34 kB
+Progress (1): 34 kB   
+Progress (2): 34 kB | 7.3/404 kB
+Progress (2): 34 kB | 11/404 kB 
+Progress (3): 34 kB | 11/404 kB | 2.0/84 kB
+Progress (4): 34 kB | 11/404 kB | 2.0/84 kB | 7.2/19 kB
+Progress (4): 34 kB | 11/404 kB | 2.0/84 kB | 15/19 kB 
+Progress (4): 34 kB | 11/404 kB | 2.0/84 kB | 16/19 kB
+Progress (4): 34 kB | 11/404 kB | 2.0/84 kB | 19 kB   
+                                                   
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring/3.5.18.1/mybatis-plus-spring-3.5.18.1.jar (34 kB at 138 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring-boot-autoconfigure/3.5.18.1/mybatis-plus-spring-boot-autoconfigure-3.5.18.1.jar
+Progress (4): 11/404 kB | 2.0/84 kB | 19 kB | 5.7 kB
+Progress (4): 11/404 kB | 18/84 kB | 19 kB | 5.7 kB 
+Progress (4): 27/404 kB | 18/84 kB | 19 kB | 5.7 kB
+Progress (4): 27/404 kB | 34/84 kB | 19 kB | 5.7 kB
+Progress (4): 44/404 kB | 34/84 kB | 19 kB | 5.7 kB
+Progress (4): 60/404 kB | 34/84 kB | 19 kB | 5.7 kB
+Progress (4): 60/404 kB | 50/84 kB | 19 kB | 5.7 kB
+Progress (4): 60/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 77/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 93/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 93/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 105/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 113/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 129/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 131/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 148/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 149/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 159/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 171/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 174/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 178/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (4): 190/404 kB | 66/84 kB | 19 kB | 5.7 kB
+Progress (5): 190/404 kB | 66/84 kB | 19 kB | 5.7 kB | 2.0/37 kB
+Progress (5): 190/404 kB | 78/84 kB | 19 kB | 5.7 kB | 2.0/37 kB
+Progress (5): 190/404 kB | 83/84 kB | 19 kB | 5.7 kB | 2.0/37 kB
+Progress (5): 190/404 kB | 84 kB | 19 kB | 5.7 kB | 2.0/37 kB   
+Progress (5): 190/404 kB | 84 kB | 19 kB | 5.7 kB | 18/37 kB 
+Progress (5): 203/404 kB | 84 kB | 19 kB | 5.7 kB | 18/37 kB
+Progress (5): 203/404 kB | 84 kB | 19 kB | 5.7 kB | 35/37 kB
+Progress (5): 215/404 kB | 84 kB | 19 kB | 5.7 kB | 35/37 kB
+Progress (5): 215/404 kB | 84 kB | 19 kB | 5.7 kB | 37 kB   
+                                                         
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-annotation/3.5.18.1/mybatis-plus-annotation-3.5.18.1.jar (19 kB at 61 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring-boot-native-image/3.5.18.1/mybatis-plus-spring-boot-native-image-3.5.18.1.jar
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus/3.5.18.1/mybatis-plus-3.5.18.1.jar (5.7 kB at 18 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-jsqlparser/3.5.18.1/mybatis-plus-jsqlparser-3.5.18.1.jar
+Progress (3): 227/404 kB | 84 kB | 37 kB
+Progress (3): 238/404 kB | 84 kB | 37 kB
+Progress (3): 248/404 kB | 84 kB | 37 kB
+Progress (3): 262/404 kB | 84 kB | 37 kB
+Progress (3): 274/404 kB | 84 kB | 37 kB
+Progress (3): 277/404 kB | 84 kB | 37 kB
+Progress (3): 283/404 kB | 84 kB | 37 kB
+Progress (3): 292/404 kB | 84 kB | 37 kB
+Progress (3): 306/404 kB | 84 kB | 37 kB
+Progress (3): 320/404 kB | 84 kB | 37 kB
+Progress (3): 332/404 kB | 84 kB | 37 kB
+Progress (3): 344/404 kB | 84 kB | 37 kB
+Progress (3): 353/404 kB | 84 kB | 37 kB
+Progress (3): 362/404 kB | 84 kB | 37 kB
+Progress (3): 365/404 kB | 84 kB | 37 kB
+Progress (3): 371/404 kB | 84 kB | 37 kB
+Progress (3): 384/404 kB | 84 kB | 37 kB
+Progress (3): 396/404 kB | 84 kB | 37 kB
+Progress (3): 404 kB | 84 kB | 37 kB    
+Progress (4): 404 kB | 84 kB | 37 kB | 2.0/112 kB
+Progress (4): 404 kB | 84 kB | 37 kB | 18/112 kB 
+                                                
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/mybatis/mybatis-spring/4.1.0/mybatis-spring-4.1.0.jar (84 kB at 226 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/github/jsqlparser/jsqlparser/5.4/jsqlparser-5.4.jar
+Progress (4): 404 kB | 37 kB | 18/112 kB | 3.5/44 kB
+Progress (4): 404 kB | 37 kB | 18/112 kB | 20/44 kB 
+Progress (4): 404 kB | 37 kB | 35/112 kB | 20/44 kB
+                                                   
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring-boot-autoconfigure/3.5.18.1/mybatis-plus-spring-boot-autoconfigure-3.5.18.1.jar (37 kB at 98 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-jsqlparser-common/3.5.18.1/mybatis-plus-jsqlparser-common-3.5.18.1.jar
+Progress (3): 404 kB | 35/112 kB | 36/44 kB
+Progress (3): 404 kB | 35/112 kB | 44 kB   
+Progress (3): 404 kB | 51/112 kB | 44 kB
+Progress (3): 404 kB | 68/112 kB | 44 kB
+Progress (3): 404 kB | 84/112 kB | 44 kB
+Progress (3): 404 kB | 99/112 kB | 44 kB
+Progress (3): 404 kB | 112 kB | 44 kB   
+                                     
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-core/3.5.18.1/mybatis-plus-core-3.5.18.1.jar (404 kB at 947 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-extension/3.5.18.1/mybatis-plus-extension-3.5.18.1.jar
+Progress (3): 112 kB | 44 kB | 0/2.0 MB
+Progress (3): 112 kB | 44 kB | 0/2.0 MB
+Progress (3): 112 kB | 44 kB | 0/2.0 MB
+Progress (3): 112 kB | 44 kB | 0/2.0 MB
+Progress (3): 112 kB | 44 kB | 0.1/2.0 MB
+Progress (3): 112 kB | 44 kB | 0.1/2.0 MB
+Progress (3): 112 kB | 44 kB | 0.1/2.0 MB
+Progress (3): 112 kB | 44 kB | 0.1/2.0 MB
+Progress (3): 112 kB | 44 kB | 0.1/2.0 MB
+Progress (3): 112 kB | 44 kB | 0.1/2.0 MB
+Progress (3): 112 kB | 44 kB | 0.1/2.0 MB
+Progress (3): 112 kB | 44 kB | 0.2/2.0 MB
+Progress (3): 112 kB | 44 kB | 0.2/2.0 MB
+Progress (3): 112 kB | 44 kB | 0.2/2.0 MB
+Progress (4): 112 kB | 44 kB | 0.2/2.0 MB | 0.5/9.8 kB
+Progress (4): 112 kB | 44 kB | 0.2/2.0 MB | 9.8 kB    
+                                                  
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-spring-boot-native-image/3.5.18.1/mybatis-plus-spring-boot-native-image-3.5.18.1.jar (44 kB at 94 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/aliyun/oss/aliyun-sdk-oss/3.18.5/aliyun-sdk-oss-3.18.5.jar
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-jsqlparser/3.5.18.1/mybatis-plus-jsqlparser-3.5.18.1.jar (112 kB at 236 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/aliyun/aliyun-java-sdk-core/4.7.8/aliyun-java-sdk-core-4.7.8.jar
+Progress (3): 0.2/2.0 MB | 9.8 kB | 7.3/214 kB
+Progress (3): 0.2/2.0 MB | 9.8 kB | 15/214 kB 
+Progress (3): 0.2/2.0 MB | 9.8 kB | 32/214 kB
+Progress (3): 0.2/2.0 MB | 9.8 kB | 48/214 kB
+Progress (3): 0.2/2.0 MB | 9.8 kB | 48/214 kB
+Progress (3): 0.2/2.0 MB | 9.8 kB | 48/214 kB
+Progress (3): 0.2/2.0 MB | 9.8 kB | 48/214 kB
+Progress (3): 0.2/2.0 MB | 9.8 kB | 48/214 kB
+Progress (3): 0.2/2.0 MB | 9.8 kB | 48/214 kB
+Progress (3): 0.2/2.0 MB | 9.8 kB | 64/214 kB
+Progress (3): 0.2/2.0 MB | 9.8 kB | 64/214 kB
+Progress (3): 0.2/2.0 MB | 9.8 kB | 81/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 81/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 81/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 81/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 81/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 81/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 97/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 97/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 97/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 97/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 97/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 114/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 114/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 114/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 114/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 114/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 114/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 114/214 kB
+Progress (3): 0.3/2.0 MB | 9.8 kB | 114/214 kB
+Progress (3): 0.4/2.0 MB | 9.8 kB | 114/214 kB
+                                              
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-jsqlparser-common/3.5.18.1/mybatis-plus-jsqlparser-common-3.5.18.1.jar (9.8 kB at 18 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-runtime/4.0.9/jaxb-runtime-4.0.9.jar
+Progress (2): 0.4/2.0 MB | 114/214 kB
+Progress (2): 0.4/2.0 MB | 114/214 kB
+Progress (3): 0.4/2.0 MB | 114/214 kB | 7.3/940 kB
+Progress (3): 0.4/2.0 MB | 114/214 kB | 15/940 kB 
+Progress (4): 0.4/2.0 MB | 114/214 kB | 15/940 kB | 7.3/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 15/940 kB | 15/274 kB 
+Progress (4): 0.4/2.0 MB | 114/214 kB | 15/940 kB | 15/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 32/940 kB | 15/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 32/940 kB | 32/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 32/940 kB | 32/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 32/940 kB | 32/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 32/940 kB | 48/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 48/940 kB | 48/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 48/940 kB | 48/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 48/940 kB | 48/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 48/940 kB | 64/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 48/940 kB | 64/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 48/940 kB | 64/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 48/940 kB | 81/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 48/940 kB | 97/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 48/940 kB | 97/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 48/940 kB | 97/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 48/940 kB | 97/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.4/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.5/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.5/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.5/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.5/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.5/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.5/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.5/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.5/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.5/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.5/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.5/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.5/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.5/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.6/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.6/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.6/2.0 MB | 114/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.6/2.0 MB | 130/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.6/2.0 MB | 146/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.6/2.0 MB | 163/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.6/2.0 MB | 179/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.6/2.0 MB | 179/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.6/2.0 MB | 196/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.6/2.0 MB | 212/214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.6/2.0 MB | 214 kB | 48/940 kB | 114/274 kB    
+Progress (4): 0.6/2.0 MB | 214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.6/2.0 MB | 214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.7/2.0 MB | 214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.7/2.0 MB | 214 kB | 48/940 kB | 114/274 kB
+Progress (4): 0.7/2.0 MB | 214 kB | 64/940 kB | 114/274 kB
+Progress (4): 0.7/2.0 MB | 214 kB | 64/940 kB | 114/274 kB
+Progress (4): 0.7/2.0 MB | 214 kB | 81/940 kB | 114/274 kB
+Progress (4): 0.7/2.0 MB | 214 kB | 81/940 kB | 114/274 kB
+Progress (4): 0.7/2.0 MB | 214 kB | 81/940 kB | 130/274 kB
+Progress (4): 0.7/2.0 MB | 214 kB | 81/940 kB | 146/274 kB
+Progress (4): 0.7/2.0 MB | 214 kB | 81/940 kB | 163/274 kB
+Progress (4): 0.7/2.0 MB | 214 kB | 97/940 kB | 163/274 kB
+Progress (4): 0.7/2.0 MB | 214 kB | 114/940 kB | 163/274 kB
+Progress (5): 0.7/2.0 MB | 214 kB | 114/940 kB | 163/274 kB | 7.3/922 kB
+Progress (5): 0.7/2.0 MB | 214 kB | 114/940 kB | 163/274 kB | 11/922 kB 
+Progress (5): 0.7/2.0 MB | 214 kB | 114/940 kB | 163/274 kB | 27/922 kB
+Progress (5): 0.7/2.0 MB | 214 kB | 114/940 kB | 163/274 kB | 44/922 kB
+Progress (5): 0.7/2.0 MB | 214 kB | 114/940 kB | 179/274 kB | 44/922 kB
+Progress (5): 0.7/2.0 MB | 214 kB | 114/940 kB | 196/274 kB | 44/922 kB
+Progress (5): 0.7/2.0 MB | 214 kB | 114/940 kB | 196/274 kB | 44/922 kB
+Progress (5): 0.7/2.0 MB | 214 kB | 114/940 kB | 196/274 kB | 60/922 kB
+Progress (5): 0.7/2.0 MB | 214 kB | 114/940 kB | 196/274 kB | 60/922 kB
+Progress (5): 0.8/2.0 MB | 214 kB | 114/940 kB | 196/274 kB | 60/922 kB
+Progress (5): 0.8/2.0 MB | 214 kB | 114/940 kB | 196/274 kB | 60/922 kB
+Progress (5): 0.8/2.0 MB | 214 kB | 114/940 kB | 212/274 kB | 60/922 kB
+Progress (5): 0.8/2.0 MB | 214 kB | 114/940 kB | 212/274 kB | 60/922 kB
+Progress (5): 0.8/2.0 MB | 214 kB | 114/940 kB | 228/274 kB | 60/922 kB
+Progress (5): 0.8/2.0 MB | 214 kB | 114/940 kB | 245/274 kB | 60/922 kB
+Progress (5): 0.8/2.0 MB | 214 kB | 114/940 kB | 245/274 kB | 60/922 kB
+Progress (5): 0.8/2.0 MB | 214 kB | 114/940 kB | 261/274 kB | 60/922 kB
+Progress (5): 0.8/2.0 MB | 214 kB | 114/940 kB | 261/274 kB | 60/922 kB
+Progress (5): 0.8/2.0 MB | 214 kB | 114/940 kB | 261/274 kB | 60/922 kB
+Progress (5): 0.8/2.0 MB | 214 kB | 114/940 kB | 274 kB | 60/922 kB    
+Progress (5): 0.8/2.0 MB | 214 kB | 114/940 kB | 274 kB | 60/922 kB
+Progress (5): 0.9/2.0 MB | 214 kB | 114/940 kB | 274 kB | 60/922 kB
+Progress (5): 0.9/2.0 MB | 214 kB | 114/940 kB | 274 kB | 60/922 kB
+Progress (5): 0.9/2.0 MB | 214 kB | 114/940 kB | 274 kB | 60/922 kB
+Progress (5): 0.9/2.0 MB | 214 kB | 114/940 kB | 274 kB | 60/922 kB
+Progress (5): 0.9/2.0 MB | 214 kB | 130/940 kB | 274 kB | 60/922 kB
+Progress (5): 0.9/2.0 MB | 214 kB | 130/940 kB | 274 kB | 60/922 kB
+                                                                   
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/baomidou/mybatis-plus-extension/3.5.18.1/mybatis-plus-extension-3.5.18.1.jar (214 kB at 251 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-core/4.0.9/jaxb-core-4.0.9.jar
+Progress (4): 0.9/2.0 MB | 130/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.0/2.0 MB | 130/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.0/2.0 MB | 130/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.0/2.0 MB | 130/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.0/2.0 MB | 130/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.0/2.0 MB | 130/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.0/2.0 MB | 130/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.1/2.0 MB | 130/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.1/2.0 MB | 130/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.1/2.0 MB | 130/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.1/2.0 MB | 146/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.1/2.0 MB | 163/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.1/2.0 MB | 179/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.1/2.0 MB | 196/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.1/2.0 MB | 212/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.1/2.0 MB | 228/940 kB | 274 kB | 60/922 kB
+Progress (4): 1.1/2.0 MB | 228/940 kB | 274 kB | 77/922 kB
+Progress (4): 1.1/2.0 MB | 228/940 kB | 274 kB | 93/922 kB
+Progress (4): 1.1/2.0 MB | 228/940 kB | 274 kB | 109/922 kB
+Progress (4): 1.1/2.0 MB | 228/940 kB | 274 kB | 126/922 kB
+Progress (4): 1.1/2.0 MB | 228/940 kB | 274 kB | 126/922 kB
+Progress (4): 1.1/2.0 MB | 228/940 kB | 274 kB | 126/922 kB
+Progress (4): 1.1/2.0 MB | 245/940 kB | 274 kB | 126/922 kB
+Progress (4): 1.1/2.0 MB | 245/940 kB | 274 kB | 126/922 kB
+                                                           
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/aliyun/aliyun-java-sdk-core/4.7.8/aliyun-java-sdk-core-4.7.8.jar (274 kB at 292 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/txw2/4.0.9/txw2-4.0.9.jar
+Progress (3): 1.1/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.2/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.2/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.2/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.2/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.2/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.2/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.3/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.3/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.3/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.3/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.3/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.3/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.4/2.0 MB | 257/940 kB | 126/922 kB
+Progress (3): 1.4/2.0 MB | 257/940 kB | 142/922 kB
+Progress (3): 1.4/2.0 MB | 257/940 kB | 159/922 kB
+Progress (3): 1.4/2.0 MB | 257/940 kB | 175/922 kB
+Progress (3): 1.4/2.0 MB | 257/940 kB | 191/922 kB
+Progress (3): 1.4/2.0 MB | 257/940 kB | 208/922 kB
+Progress (3): 1.4/2.0 MB | 257/940 kB | 224/922 kB
+Progress (3): 1.4/2.0 MB | 257/940 kB | 240/922 kB
+Progress (3): 1.4/2.0 MB | 257/940 kB | 240/922 kB
+Progress (3): 1.4/2.0 MB | 257/940 kB | 257/922 kB
+Progress (4): 1.4/2.0 MB | 257/940 kB | 257/922 kB | 2.0/73 kB
+Progress (5): 1.4/2.0 MB | 257/940 kB | 257/922 kB | 2.0/73 kB | 0.5/139 kB
+Progress (5): 1.4/2.0 MB | 270/940 kB | 257/922 kB | 2.0/73 kB | 0.5/139 kB
+Progress (5): 1.4/2.0 MB | 270/940 kB | 257/922 kB | 2.0/73 kB | 0.5/139 kB
+Progress (5): 1.4/2.0 MB | 270/940 kB | 257/922 kB | 2.0/73 kB | 0.5/139 kB
+Progress (5): 1.4/2.0 MB | 270/940 kB | 257/922 kB | 2.0/73 kB | 17/139 kB 
+Progress (5): 1.4/2.0 MB | 270/940 kB | 271/922 kB | 2.0/73 kB | 17/139 kB
+Progress (5): 1.4/2.0 MB | 270/940 kB | 271/922 kB | 18/73 kB | 17/139 kB 
+Progress (5): 1.4/2.0 MB | 270/940 kB | 271/922 kB | 18/73 kB | 17/139 kB
+Progress (5): 1.4/2.0 MB | 270/940 kB | 271/922 kB | 18/73 kB | 17/139 kB
+Progress (5): 1.4/2.0 MB | 270/940 kB | 271/922 kB | 18/73 kB | 33/139 kB
+Progress (5): 1.5/2.0 MB | 270/940 kB | 271/922 kB | 18/73 kB | 33/139 kB
+Progress (5): 1.5/2.0 MB | 270/940 kB | 271/922 kB | 35/73 kB | 33/139 kB
+Progress (5): 1.5/2.0 MB | 285/940 kB | 271/922 kB | 35/73 kB | 33/139 kB
+Progress (5): 1.5/2.0 MB | 285/940 kB | 271/922 kB | 35/73 kB | 33/139 kB
+Progress (5): 1.5/2.0 MB | 285/940 kB | 271/922 kB | 35/73 kB | 50/139 kB
+Progress (5): 1.5/2.0 MB | 285/940 kB | 287/922 kB | 35/73 kB | 50/139 kB
+Progress (5): 1.5/2.0 MB | 285/940 kB | 287/922 kB | 35/73 kB | 50/139 kB
+Progress (5): 1.5/2.0 MB | 285/940 kB | 287/922 kB | 35/73 kB | 50/139 kB
+Progress (5): 1.5/2.0 MB | 285/940 kB | 287/922 kB | 51/73 kB | 50/139 kB
+Progress (5): 1.5/2.0 MB | 285/940 kB | 287/922 kB | 51/73 kB | 50/139 kB
+Progress (5): 1.5/2.0 MB | 285/940 kB | 287/922 kB | 51/73 kB | 66/139 kB
+Progress (5): 1.5/2.0 MB | 285/940 kB | 287/922 kB | 51/73 kB | 82/139 kB
+Progress (5): 1.5/2.0 MB | 297/940 kB | 287/922 kB | 51/73 kB | 82/139 kB
+Progress (5): 1.5/2.0 MB | 297/940 kB | 287/922 kB | 51/73 kB | 82/139 kB
+Progress (5): 1.5/2.0 MB | 297/940 kB | 287/922 kB | 68/73 kB | 82/139 kB
+Progress (5): 1.6/2.0 MB | 297/940 kB | 287/922 kB | 68/73 kB | 82/139 kB
+Progress (5): 1.6/2.0 MB | 297/940 kB | 304/922 kB | 68/73 kB | 82/139 kB
+Progress (5): 1.6/2.0 MB | 297/940 kB | 304/922 kB | 68/73 kB | 82/139 kB
+Progress (5): 1.6/2.0 MB | 297/940 kB | 304/922 kB | 73 kB | 82/139 kB   
+Progress (5): 1.6/2.0 MB | 297/940 kB | 304/922 kB | 73 kB | 99/139 kB
+Progress (5): 1.6/2.0 MB | 309/940 kB | 304/922 kB | 73 kB | 99/139 kB
+Progress (5): 1.6/2.0 MB | 309/940 kB | 304/922 kB | 73 kB | 99/139 kB
+Progress (5): 1.6/2.0 MB | 309/940 kB | 304/922 kB | 73 kB | 99/139 kB
+Progress (5): 1.6/2.0 MB | 309/940 kB | 304/922 kB | 73 kB | 99/139 kB
+Progress (5): 1.6/2.0 MB | 309/940 kB | 320/922 kB | 73 kB | 99/139 kB
+Progress (5): 1.6/2.0 MB | 309/940 kB | 320/922 kB | 73 kB | 99/139 kB
+Progress (5): 1.6/2.0 MB | 309/940 kB | 320/922 kB | 73 kB | 115/139 kB
+Progress (5): 1.6/2.0 MB | 321/940 kB | 320/922 kB | 73 kB | 115/139 kB
+Progress (5): 1.6/2.0 MB | 321/940 kB | 320/922 kB | 73 kB | 132/139 kB
+Progress (5): 1.7/2.0 MB | 321/940 kB | 320/922 kB | 73 kB | 132/139 kB
+Progress (5): 1.7/2.0 MB | 321/940 kB | 320/922 kB | 73 kB | 132/139 kB
+Progress (5): 1.7/2.0 MB | 321/940 kB | 320/922 kB | 73 kB | 132/139 kB
+Progress (5): 1.7/2.0 MB | 321/940 kB | 320/922 kB | 73 kB | 139 kB    
+Progress (5): 1.7/2.0 MB | 321/940 kB | 320/922 kB | 73 kB | 139 kB
+Progress (5): 1.7/2.0 MB | 321/940 kB | 337/922 kB | 73 kB | 139 kB
+Progress (5): 1.7/2.0 MB | 321/940 kB | 337/922 kB | 73 kB | 139 kB
+Progress (5): 1.7/2.0 MB | 321/940 kB | 353/922 kB | 73 kB | 139 kB
+Progress (5): 1.7/2.0 MB | 333/940 kB | 353/922 kB | 73 kB | 139 kB
+Progress (5): 1.7/2.0 MB | 333/940 kB | 353/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 333/940 kB | 353/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 346/940 kB | 353/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 346/940 kB | 369/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 346/940 kB | 369/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 346/940 kB | 369/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 346/940 kB | 369/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 346/940 kB | 369/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 346/940 kB | 369/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 346/940 kB | 369/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 349/940 kB | 369/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 349/940 kB | 369/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 349/940 kB | 386/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 349/940 kB | 402/922 kB | 73 kB | 139 kB
+Progress (5): 1.8/2.0 MB | 349/940 kB | 402/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 349/940 kB | 402/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 349/940 kB | 402/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 361/940 kB | 402/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 361/940 kB | 402/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 361/940 kB | 418/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 361/940 kB | 435/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 376/940 kB | 435/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 392/940 kB | 435/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 397/940 kB | 435/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 397/940 kB | 451/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 409/940 kB | 451/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 423/940 kB | 451/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 423/940 kB | 468/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 423/940 kB | 468/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 423/940 kB | 484/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 423/940 kB | 500/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 435/940 kB | 500/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 435/940 kB | 500/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 435/940 kB | 517/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 435/940 kB | 524/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 446/940 kB | 524/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 446/940 kB | 524/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 450/940 kB | 524/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 450/940 kB | 527/922 kB | 73 kB | 139 kB
+Progress (5): 1.9/2.0 MB | 450/940 kB | 527/922 kB | 73 kB | 139 kB
+Progress (5): 2.0/2.0 MB | 450/940 kB | 527/922 kB | 73 kB | 139 kB
+Progress (5): 2.0/2.0 MB | 450/940 kB | 527/922 kB | 73 kB | 139 kB
+Progress (5): 2.0/2.0 MB | 450/940 kB | 527/922 kB | 73 kB | 139 kB
+Progress (5): 2.0 MB | 450/940 kB | 527/922 kB | 73 kB | 139 kB    
+                                                               
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/txw2/4.0.9/txw2-4.0.9.jar (73 kB at 53 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/com/sun/istack/istack-commons-runtime/4.1.2/istack-commons-runtime-4.1.2.jar
+Progress (4): 2.0 MB | 461/940 kB | 527/922 kB | 139 kB
+Progress (4): 2.0 MB | 461/940 kB | 544/922 kB | 139 kB
+Progress (4): 2.0 MB | 461/940 kB | 560/922 kB | 139 kB
+Progress (4): 2.0 MB | 473/940 kB | 560/922 kB | 139 kB
+                                                       
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-core/4.0.9/jaxb-core-4.0.9.jar (139 kB at 97 kB/s)
+Downloading from aliyunmaven: https://maven.aliyun.com/repository/public/org/bouncycastle/bcprov-jdk18on/1.79/bcprov-jdk18on-1.79.jar
+Progress (3): 2.0 MB | 473/940 kB | 576/922 kB
+Progress (4): 2.0 MB | 473/940 kB | 576/922 kB | 2.1/26 kB
+Progress (4): 2.0 MB | 485/940 kB | 576/922 kB | 2.1/26 kB
+Progress (4): 2.0 MB | 485/940 kB | 576/922 kB | 18/26 kB 
+                                                         
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/github/jsqlparser/jsqlparser/5.4/jsqlparser-5.4.jar (2.0 MB at 1.4 MB/s)
+Progress (3): 485/940 kB | 576/922 kB | 26 kB
+Progress (3): 485/940 kB | 593/922 kB | 26 kB
+Progress (3): 502/940 kB | 593/922 kB | 26 kB
+Progress (3): 510/940 kB | 593/922 kB | 26 kB
+Progress (3): 510/940 kB | 609/922 kB | 26 kB
+Progress (3): 510/940 kB | 626/922 kB | 26 kB
+Progress (3): 526/940 kB | 626/922 kB | 26 kB
+Progress (3): 534/940 kB | 626/922 kB | 26 kB
+Progress (3): 534/940 kB | 642/922 kB | 26 kB
+Progress (3): 546/940 kB | 642/922 kB | 26 kB
+Progress (3): 546/940 kB | 658/922 kB | 26 kB
+Progress (3): 550/940 kB | 658/922 kB | 26 kB
+Progress (3): 550/940 kB | 675/922 kB | 26 kB
+                                             
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/sun/istack/istack-commons-runtime/4.1.2/istack-commons-runtime-4.1.2.jar (26 kB at 17 kB/s)
+Progress (2): 567/940 kB | 675/922 kB
+Progress (2): 567/940 kB | 691/922 kB
+Progress (3): 567/940 kB | 691/922 kB | 0/8.6 MB
+Progress (3): 567/940 kB | 691/922 kB | 0/8.6 MB
+Progress (3): 579/940 kB | 691/922 kB | 0/8.6 MB
+Progress (3): 579/940 kB | 708/922 kB | 0/8.6 MB
+Progress (3): 579/940 kB | 724/922 kB | 0/8.6 MB
+Progress (3): 595/940 kB | 724/922 kB | 0/8.6 MB
+Progress (3): 595/940 kB | 740/922 kB | 0/8.6 MB
+Progress (3): 595/940 kB | 757/922 kB | 0/8.6 MB
+Progress (3): 595/940 kB | 757/922 kB | 0/8.6 MB
+Progress (3): 612/940 kB | 757/922 kB | 0/8.6 MB
+Progress (3): 612/940 kB | 773/922 kB | 0/8.6 MB
+Progress (3): 628/940 kB | 773/922 kB | 0/8.6 MB
+Progress (3): 628/940 kB | 789/922 kB | 0/8.6 MB
+Progress (3): 628/940 kB | 806/922 kB | 0/8.6 MB
+Progress (3): 628/940 kB | 806/922 kB | 0/8.6 MB
+Progress (3): 644/940 kB | 806/922 kB | 0/8.6 MB
+Progress (3): 644/940 kB | 822/922 kB | 0/8.6 MB
+Progress (3): 661/940 kB | 822/922 kB | 0/8.6 MB
+Progress (3): 661/940 kB | 839/922 kB | 0/8.6 MB
+Progress (3): 677/940 kB | 839/922 kB | 0/8.6 MB
+Progress (3): 677/940 kB | 855/922 kB | 0/8.6 MB
+Progress (3): 677/940 kB | 855/922 kB | 0.1/8.6 MB
+Progress (3): 677/940 kB | 871/922 kB | 0.1/8.6 MB
+Progress (3): 677/940 kB | 888/922 kB | 0.1/8.6 MB
+Progress (3): 694/940 kB | 888/922 kB | 0.1/8.6 MB
+Progress (3): 694/940 kB | 904/922 kB | 0.1/8.6 MB
+Progress (3): 710/940 kB | 904/922 kB | 0.1/8.6 MB
+Progress (3): 710/940 kB | 921/922 kB | 0.1/8.6 MB
+Progress (3): 710/940 kB | 922 kB | 0.1/8.6 MB    
+Progress (3): 710/940 kB | 922 kB | 0.1/8.6 MB
+Progress (3): 710/940 kB | 922 kB | 0.1/8.6 MB
+Progress (3): 710/940 kB | 922 kB | 0.1/8.6 MB
+Progress (3): 726/940 kB | 922 kB | 0.1/8.6 MB
+Progress (3): 726/940 kB | 922 kB | 0.1/8.6 MB
+Progress (3): 743/940 kB | 922 kB | 0.1/8.6 MB
+Progress (3): 743/940 kB | 922 kB | 0.1/8.6 MB
+Progress (3): 759/940 kB | 922 kB | 0.1/8.6 MB
+Progress (3): 759/940 kB | 922 kB | 0.2/8.6 MB
+Progress (3): 776/940 kB | 922 kB | 0.2/8.6 MB
+Progress (3): 792/940 kB | 922 kB | 0.2/8.6 MB
+Progress (3): 792/940 kB | 922 kB | 0.2/8.6 MB
+Progress (3): 792/940 kB | 922 kB | 0.2/8.6 MB
+                                              
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/glassfish/jaxb/jaxb-runtime/4.0.9/jaxb-runtime-4.0.9.jar (922 kB at 567 kB/s)
+Progress (2): 808/940 kB | 0.2/8.6 MB
+Progress (2): 808/940 kB | 0.2/8.6 MB
+Progress (2): 825/940 kB | 0.2/8.6 MB
+Progress (2): 825/940 kB | 0.2/8.6 MB
+Progress (2): 825/940 kB | 0.2/8.6 MB
+Progress (2): 841/940 kB | 0.2/8.6 MB
+Progress (2): 841/940 kB | 0.2/8.6 MB
+Progress (2): 857/940 kB | 0.2/8.6 MB
+Progress (2): 857/940 kB | 0.2/8.6 MB
+Progress (2): 857/940 kB | 0.2/8.6 MB
+Progress (2): 857/940 kB | 0.2/8.6 MB
+Progress (2): 857/940 kB | 0.3/8.6 MB
+Progress (2): 874/940 kB | 0.3/8.6 MB
+Progress (2): 890/940 kB | 0.3/8.6 MB
+Progress (2): 890/940 kB | 0.3/8.6 MB
+Progress (2): 907/940 kB | 0.3/8.6 MB
+Progress (2): 907/940 kB | 0.3/8.6 MB
+Progress (2): 907/940 kB | 0.3/8.6 MB
+Progress (2): 907/940 kB | 0.3/8.6 MB
+Progress (2): 907/940 kB | 0.3/8.6 MB
+Progress (2): 923/940 kB | 0.3/8.6 MB
+Progress (2): 923/940 kB | 0.3/8.6 MB
+Progress (2): 923/940 kB | 0.3/8.6 MB
+Progress (2): 939/940 kB | 0.3/8.6 MB
+Progress (2): 939/940 kB | 0.3/8.6 MB
+Progress (2): 940 kB | 0.3/8.6 MB    
+Progress (2): 940 kB | 0.3/8.6 MB
+Progress (2): 940 kB | 0.4/8.6 MB
+Progress (2): 940 kB | 0.4/8.6 MB
+Progress (2): 940 kB | 0.4/8.6 MB
+Progress (2): 940 kB | 0.4/8.6 MB
+Progress (2): 940 kB | 0.4/8.6 MB
+Progress (2): 940 kB | 0.4/8.6 MB
+Progress (2): 940 kB | 0.4/8.6 MB
+Progress (2): 940 kB | 0.4/8.6 MB
+Progress (2): 940 kB | 0.4/8.6 MB
+Progress (2): 940 kB | 0.4/8.6 MB
+Progress (2): 940 kB | 0.4/8.6 MB
+Progress (2): 940 kB | 0.5/8.6 MB
+Progress (2): 940 kB | 0.5/8.6 MB
+Progress (2): 940 kB | 0.5/8.6 MB
+Progress (2): 940 kB | 0.5/8.6 MB
+Progress (2): 940 kB | 0.5/8.6 MB
+Progress (2): 940 kB | 0.5/8.6 MB
+Progress (2): 940 kB | 0.5/8.6 MB
+Progress (2): 940 kB | 0.6/8.6 MB
+Progress (2): 940 kB | 0.6/8.6 MB
+Progress (2): 940 kB | 0.6/8.6 MB
+Progress (2): 940 kB | 0.6/8.6 MB
+Progress (2): 940 kB | 0.6/8.6 MB
+Progress (2): 940 kB | 0.6/8.6 MB
+Progress (2): 940 kB | 0.7/8.6 MB
+Progress (2): 940 kB | 0.7/8.6 MB
+                                 
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/com/aliyun/oss/aliyun-sdk-oss/3.18.5/aliyun-sdk-oss-3.18.5.jar (940 kB at 531 kB/s)
+Progress (1): 0.7/8.6 MB
+Progress (1): 0.7/8.6 MB
+Progress (1): 0.7/8.6 MB
+Progress (1): 0.7/8.6 MB
+Progress (1): 0.8/8.6 MB
+Progress (1): 0.8/8.6 MB
+Progress (1): 0.8/8.6 MB
+Progress (1): 0.8/8.6 MB
+Progress (1): 0.8/8.6 MB
+Progress (1): 0.8/8.6 MB
+Progress (1): 0.8/8.6 MB
+Progress (1): 0.9/8.6 MB
+Progress (1): 0.9/8.6 MB
+Progress (1): 0.9/8.6 MB
+Progress (1): 0.9/8.6 MB
+Progress (1): 0.9/8.6 MB
+Progress (1): 0.9/8.6 MB
+Progress (1): 1.0/8.6 MB
+Progress (1): 1.0/8.6 MB
+Progress (1): 1.0/8.6 MB
+Progress (1): 1.0/8.6 MB
+Progress (1): 1.0/8.6 MB
+Progress (1): 1.0/8.6 MB
+Progress (1): 1.1/8.6 MB
+Progress (1): 1.1/8.6 MB
+Progress (1): 1.1/8.6 MB
+Progress (1): 1.1/8.6 MB
+Progress (1): 1.1/8.6 MB
+Progress (1): 1.1/8.6 MB
+Progress (1): 1.2/8.6 MB
+Progress (1): 1.2/8.6 MB
+Progress (1): 1.2/8.6 MB
+Progress (1): 1.2/8.6 MB
+Progress (1): 1.2/8.6 MB
+Progress (1): 1.2/8.6 MB
+Progress (1): 1.3/8.6 MB
+Progress (1): 1.3/8.6 MB
+Progress (1): 1.3/8.6 MB
+Progress (1): 1.3/8.6 MB
+Progress (1): 1.3/8.6 MB
+Progress (1): 1.3/8.6 MB
+Progress (1): 1.4/8.6 MB
+Progress (1): 1.4/8.6 MB
+Progress (1): 1.4/8.6 MB
+Progress (1): 1.4/8.6 MB
+Progress (1): 1.4/8.6 MB
+Progress (1): 1.4/8.6 MB
+Progress (1): 1.5/8.6 MB
+Progress (1): 1.5/8.6 MB
+Progress (1): 1.5/8.6 MB
+Progress (1): 1.5/8.6 MB
+Progress (1): 1.5/8.6 MB
+Progress (1): 1.5/8.6 MB
+Progress (1): 1.6/8.6 MB
+Progress (1): 1.6/8.6 MB
+Progress (1): 1.6/8.6 MB
+Progress (1): 1.6/8.6 MB
+Progress (1): 1.6/8.6 MB
+Progress (1): 1.6/8.6 MB
+Progress (1): 1.7/8.6 MB
+Progress (1): 1.7/8.6 MB
+Progress (1): 1.7/8.6 MB
+Progress (1): 1.7/8.6 MB
+Progress (1): 1.7/8.6 MB
+Progress (1): 1.7/8.6 MB
+Progress (1): 1.7/8.6 MB
+Progress (1): 1.8/8.6 MB
+Progress (1): 1.8/8.6 MB
+Progress (1): 1.8/8.6 MB
+Progress (1): 1.8/8.6 MB
+Progress (1): 1.8/8.6 MB
+Progress (1): 1.8/8.6 MB
+Progress (1): 1.8/8.6 MB
+Progress (1): 1.8/8.6 MB
+Progress (1): 1.8/8.6 MB
+Progress (1): 1.9/8.6 MB
+Progress (1): 1.9/8.6 MB
+Progress (1): 1.9/8.6 MB
+Progress (1): 1.9/8.6 MB
+Progress (1): 1.9/8.6 MB
+Progress (1): 1.9/8.6 MB
+Progress (1): 1.9/8.6 MB
+Progress (1): 1.9/8.6 MB
+Progress (1): 2.0/8.6 MB
+Progress (1): 2.0/8.6 MB
+Progress (1): 2.0/8.6 MB
+Progress (1): 2.0/8.6 MB
+Progress (1): 2.0/8.6 MB
+Progress (1): 2.0/8.6 MB
+Progress (1): 2.1/8.6 MB
+Progress (1): 2.1/8.6 MB
+Progress (1): 2.1/8.6 MB
+Progress (1): 2.1/8.6 MB
+Progress (1): 2.1/8.6 MB
+Progress (1): 2.1/8.6 MB
+Progress (1): 2.2/8.6 MB
+Progress (1): 2.2/8.6 MB
+Progress (1): 2.2/8.6 MB
+Progress (1): 2.2/8.6 MB
+Progress (1): 2.2/8.6 MB
+Progress (1): 2.2/8.6 MB
+Progress (1): 2.3/8.6 MB
+Progress (1): 2.3/8.6 MB
+Progress (1): 2.3/8.6 MB
+Progress (1): 2.3/8.6 MB
+Progress (1): 2.3/8.6 MB
+Progress (1): 2.3/8.6 MB
+Progress (1): 2.3/8.6 MB
+Progress (1): 2.3/8.6 MB
+Progress (1): 2.3/8.6 MB
+Progress (1): 2.4/8.6 MB
+Progress (1): 2.4/8.6 MB
+Progress (1): 2.4/8.6 MB
+Progress (1): 2.4/8.6 MB
+Progress (1): 2.4/8.6 MB
+Progress (1): 2.4/8.6 MB
+Progress (1): 2.4/8.6 MB
+Progress (1): 2.4/8.6 MB
+Progress (1): 2.4/8.6 MB
+Progress (1): 2.4/8.6 MB
+Progress (1): 2.5/8.6 MB
+Progress (1): 2.5/8.6 MB
+Progress (1): 2.5/8.6 MB
+Progress (1): 2.5/8.6 MB
+Progress (1): 2.5/8.6 MB
+Progress (1): 2.5/8.6 MB
+Progress (1): 2.6/8.6 MB
+Progress (1): 2.6/8.6 MB
+Progress (1): 2.6/8.6 MB
+Progress (1): 2.6/8.6 MB
+Progress (1): 2.6/8.6 MB
+Progress (1): 2.6/8.6 MB
+Progress (1): 2.7/8.6 MB
+Progress (1): 2.7/8.6 MB
+Progress (1): 2.7/8.6 MB
+Progress (1): 2.7/8.6 MB
+Progress (1): 2.7/8.6 MB
+Progress (1): 2.7/8.6 MB
+Progress (1): 2.8/8.6 MB
+Progress (1): 2.8/8.6 MB
+Progress (1): 2.8/8.6 MB
+Progress (1): 2.8/8.6 MB
+Progress (1): 2.8/8.6 MB
+Progress (1): 2.8/8.6 MB
+Progress (1): 2.9/8.6 MB
+Progress (1): 2.9/8.6 MB
+Progress (1): 2.9/8.6 MB
+Progress (1): 2.9/8.6 MB
+Progress (1): 2.9/8.6 MB
+Progress (1): 2.9/8.6 MB
+Progress (1): 3.0/8.6 MB
+Progress (1): 3.0/8.6 MB
+Progress (1): 3.0/8.6 MB
+Progress (1): 3.0/8.6 MB
+Progress (1): 3.0/8.6 MB
+Progress (1): 3.0/8.6 MB
+Progress (1): 3.0/8.6 MB
+Progress (1): 3.1/8.6 MB
+Progress (1): 3.1/8.6 MB
+Progress (1): 3.1/8.6 MB
+Progress (1): 3.1/8.6 MB
+Progress (1): 3.1/8.6 MB
+Progress (1): 3.1/8.6 MB
+Progress (1): 3.2/8.6 MB
+Progress (1): 3.2/8.6 MB
+Progress (1): 3.2/8.6 MB
+Progress (1): 3.2/8.6 MB
+Progress (1): 3.2/8.6 MB
+Progress (1): 3.2/8.6 MB
+Progress (1): 3.3/8.6 MB
+Progress (1): 3.3/8.6 MB
+Progress (1): 3.3/8.6 MB
+Progress (1): 3.3/8.6 MB
+Progress (1): 3.3/8.6 MB
+Progress (1): 3.3/8.6 MB
+Progress (1): 3.3/8.6 MB
+Progress (1): 3.3/8.6 MB
+Progress (1): 3.4/8.6 MB
+Progress (1): 3.4/8.6 MB
+Progress (1): 3.4/8.6 MB
+Progress (1): 3.4/8.6 MB
+Progress (1): 3.4/8.6 MB
+Progress (1): 3.4/8.6 MB
+Progress (1): 3.4/8.6 MB
+Progress (1): 3.5/8.6 MB
+Progress (1): 3.5/8.6 MB
+Progress (1): 3.5/8.6 MB
+Progress (1): 3.5/8.6 MB
+Progress (1): 3.5/8.6 MB
+Progress (1): 3.5/8.6 MB
+Progress (1): 3.6/8.6 MB
+Progress (1): 3.6/8.6 MB
+Progress (1): 3.6/8.6 MB
+Progress (1): 3.6/8.6 MB
+Progress (1): 3.6/8.6 MB
+Progress (1): 3.6/8.6 MB
+Progress (1): 3.7/8.6 MB
+Progress (1): 3.7/8.6 MB
+Progress (1): 3.7/8.6 MB
+Progress (1): 3.7/8.6 MB
+Progress (1): 3.7/8.6 MB
+Progress (1): 3.7/8.6 MB
+Progress (1): 3.7/8.6 MB
+Progress (1): 3.8/8.6 MB
+Progress (1): 3.8/8.6 MB
+Progress (1): 3.8/8.6 MB
+Progress (1): 3.8/8.6 MB
+Progress (1): 3.8/8.6 MB
+Progress (1): 3.8/8.6 MB
+Progress (1): 3.8/8.6 MB
+Progress (1): 3.9/8.6 MB
+Progress (1): 3.9/8.6 MB
+Progress (1): 3.9/8.6 MB
+Progress (1): 3.9/8.6 MB
+Progress (1): 3.9/8.6 MB
+Progress (1): 3.9/8.6 MB
+Progress (1): 4.0/8.6 MB
+Progress (1): 4.0/8.6 MB
+Progress (1): 4.0/8.6 MB
+Progress (1): 4.0/8.6 MB
+Progress (1): 4.0/8.6 MB
+Progress (1): 4.0/8.6 MB
+Progress (1): 4.1/8.6 MB
+Progress (1): 4.1/8.6 MB
+Progress (1): 4.1/8.6 MB
+Progress (1): 4.1/8.6 MB
+Progress (1): 4.1/8.6 MB
+Progress (1): 4.1/8.6 MB
+Progress (1): 4.2/8.6 MB
+Progress (1): 4.2/8.6 MB
+Progress (1): 4.2/8.6 MB
+Progress (1): 4.2/8.6 MB
+Progress (1): 4.2/8.6 MB
+Progress (1): 4.2/8.6 MB
+Progress (1): 4.3/8.6 MB
+Progress (1): 4.3/8.6 MB
+Progress (1): 4.3/8.6 MB
+Progress (1): 4.3/8.6 MB
+Progress (1): 4.3/8.6 MB
+Progress (1): 4.3/8.6 MB
+Progress (1): 4.3/8.6 MB
+Progress (1): 4.4/8.6 MB
+Progress (1): 4.4/8.6 MB
+Progress (1): 4.4/8.6 MB
+Progress (1): 4.4/8.6 MB
+Progress (1): 4.4/8.6 MB
+Progress (1): 4.4/8.6 MB
+Progress (1): 4.5/8.6 MB
+Progress (1): 4.5/8.6 MB
+Progress (1): 4.5/8.6 MB
+Progress (1): 4.5/8.6 MB
+Progress (1): 4.5/8.6 MB
+Progress (1): 4.5/8.6 MB
+Progress (1): 4.6/8.6 MB
+Progress (1): 4.6/8.6 MB
+Progress (1): 4.6/8.6 MB
+Progress (1): 4.6/8.6 MB
+Progress (1): 4.6/8.6 MB
+Progress (1): 4.6/8.6 MB
+Progress (1): 4.7/8.6 MB
+Progress (1): 4.7/8.6 MB
+Progress (1): 4.7/8.6 MB
+Progress (1): 4.7/8.6 MB
+Progress (1): 4.7/8.6 MB
+Progress (1): 4.7/8.6 MB
+Progress (1): 4.8/8.6 MB
+Progress (1): 4.8/8.6 MB
+Progress (1): 4.8/8.6 MB
+Progress (1): 4.8/8.6 MB
+Progress (1): 4.8/8.6 MB
+Progress (1): 4.8/8.6 MB
+Progress (1): 4.9/8.6 MB
+Progress (1): 4.9/8.6 MB
+Progress (1): 4.9/8.6 MB
+Progress (1): 4.9/8.6 MB
+Progress (1): 4.9/8.6 MB
+Progress (1): 4.9/8.6 MB
+Progress (1): 5.0/8.6 MB
+Progress (1): 5.0/8.6 MB
+Progress (1): 5.0/8.6 MB
+Progress (1): 5.0/8.6 MB
+Progress (1): 5.0/8.6 MB
+Progress (1): 5.0/8.6 MB
+Progress (1): 5.1/8.6 MB
+Progress (1): 5.1/8.6 MB
+Progress (1): 5.1/8.6 MB
+Progress (1): 5.1/8.6 MB
+Progress (1): 5.1/8.6 MB
+Progress (1): 5.1/8.6 MB
+Progress (1): 5.2/8.6 MB
+Progress (1): 5.2/8.6 MB
+Progress (1): 5.2/8.6 MB
+Progress (1): 5.2/8.6 MB
+Progress (1): 5.2/8.6 MB
+Progress (1): 5.2/8.6 MB
+Progress (1): 5.3/8.6 MB
+Progress (1): 5.3/8.6 MB
+Progress (1): 5.3/8.6 MB
+Progress (1): 5.3/8.6 MB
+Progress (1): 5.3/8.6 MB
+Progress (1): 5.3/8.6 MB
+Progress (1): 5.3/8.6 MB
+Progress (1): 5.4/8.6 MB
+Progress (1): 5.4/8.6 MB
+Progress (1): 5.4/8.6 MB
+Progress (1): 5.4/8.6 MB
+Progress (1): 5.4/8.6 MB
+Progress (1): 5.4/8.6 MB
+Progress (1): 5.5/8.6 MB
+Progress (1): 5.5/8.6 MB
+Progress (1): 5.5/8.6 MB
+Progress (1): 5.5/8.6 MB
+Progress (1): 5.5/8.6 MB
+Progress (1): 5.5/8.6 MB
+Progress (1): 5.5/8.6 MB
+Progress (1): 5.5/8.6 MB
+Progress (1): 5.5/8.6 MB
+Progress (1): 5.5/8.6 MB
+Progress (1): 5.6/8.6 MB
+Progress (1): 5.6/8.6 MB
+Progress (1): 5.6/8.6 MB
+Progress (1): 5.6/8.6 MB
+Progress (1): 5.6/8.6 MB
+Progress (1): 5.6/8.6 MB
+Progress (1): 5.6/8.6 MB
+Progress (1): 5.7/8.6 MB
+Progress (1): 5.7/8.6 MB
+Progress (1): 5.7/8.6 MB
+Progress (1): 5.7/8.6 MB
+Progress (1): 5.7/8.6 MB
+Progress (1): 5.7/8.6 MB
+Progress (1): 5.8/8.6 MB
+Progress (1): 5.8/8.6 MB
+Progress (1): 5.8/8.6 MB
+Progress (1): 5.8/8.6 MB
+Progress (1): 5.8/8.6 MB
+Progress (1): 5.8/8.6 MB
+Progress (1): 5.9/8.6 MB
+Progress (1): 5.9/8.6 MB
+Progress (1): 5.9/8.6 MB
+Progress (1): 5.9/8.6 MB
+Progress (1): 5.9/8.6 MB
+Progress (1): 5.9/8.6 MB
+Progress (1): 5.9/8.6 MB
+Progress (1): 6.0/8.6 MB
+Progress (1): 6.0/8.6 MB
+Progress (1): 6.0/8.6 MB
+Progress (1): 6.0/8.6 MB
+Progress (1): 6.0/8.6 MB
+Progress (1): 6.0/8.6 MB
+Progress (1): 6.1/8.6 MB
+Progress (1): 6.1/8.6 MB
+Progress (1): 6.1/8.6 MB
+Progress (1): 6.1/8.6 MB
+Progress (1): 6.1/8.6 MB
+Progress (1): 6.1/8.6 MB
+Progress (1): 6.2/8.6 MB
+Progress (1): 6.2/8.6 MB
+Progress (1): 6.2/8.6 MB
+Progress (1): 6.2/8.6 MB
+Progress (1): 6.2/8.6 MB
+Progress (1): 6.2/8.6 MB
+Progress (1): 6.3/8.6 MB
+Progress (1): 6.3/8.6 MB
+Progress (1): 6.3/8.6 MB
+Progress (1): 6.3/8.6 MB
+Progress (1): 6.3/8.6 MB
+Progress (1): 6.3/8.6 MB
+Progress (1): 6.4/8.6 MB
+Progress (1): 6.4/8.6 MB
+Progress (1): 6.4/8.6 MB
+Progress (1): 6.4/8.6 MB
+Progress (1): 6.4/8.6 MB
+Progress (1): 6.4/8.6 MB
+Progress (1): 6.5/8.6 MB
+Progress (1): 6.5/8.6 MB
+Progress (1): 6.5/8.6 MB
+Progress (1): 6.5/8.6 MB
+Progress (1): 6.5/8.6 MB
+Progress (1): 6.5/8.6 MB
+Progress (1): 6.6/8.6 MB
+Progress (1): 6.6/8.6 MB
+Progress (1): 6.6/8.6 MB
+Progress (1): 6.6/8.6 MB
+Progress (1): 6.6/8.6 MB
+Progress (1): 6.6/8.6 MB
+Progress (1): 6.7/8.6 MB
+Progress (1): 6.7/8.6 MB
+Progress (1): 6.7/8.6 MB
+Progress (1): 6.7/8.6 MB
+Progress (1): 6.7/8.6 MB
+Progress (1): 6.7/8.6 MB
+Progress (1): 6.8/8.6 MB
+Progress (1): 6.8/8.6 MB
+Progress (1): 6.8/8.6 MB
+Progress (1): 6.8/8.6 MB
+Progress (1): 6.8/8.6 MB
+Progress (1): 6.8/8.6 MB
+Progress (1): 6.8/8.6 MB
+Progress (1): 6.9/8.6 MB
+Progress (1): 6.9/8.6 MB
+Progress (1): 6.9/8.6 MB
+Progress (1): 6.9/8.6 MB
+Progress (1): 6.9/8.6 MB
+Progress (1): 6.9/8.6 MB
+Progress (1): 7.0/8.6 MB
+Progress (1): 7.0/8.6 MB
+Progress (1): 7.0/8.6 MB
+Progress (1): 7.0/8.6 MB
+Progress (1): 7.0/8.6 MB
+Progress (1): 7.0/8.6 MB
+Progress (1): 7.1/8.6 MB
+Progress (1): 7.1/8.6 MB
+Progress (1): 7.1/8.6 MB
+Progress (1): 7.1/8.6 MB
+Progress (1): 7.1/8.6 MB
+Progress (1): 7.1/8.6 MB
+Progress (1): 7.1/8.6 MB
+Progress (1): 7.1/8.6 MB
+Progress (1): 7.1/8.6 MB
+Progress (1): 7.2/8.6 MB
+Progress (1): 7.2/8.6 MB
+Progress (1): 7.2/8.6 MB
+Progress (1): 7.2/8.6 MB
+Progress (1): 7.2/8.6 MB
+Progress (1): 7.2/8.6 MB
+Progress (1): 7.3/8.6 MB
+Progress (1): 7.3/8.6 MB
+Progress (1): 7.3/8.6 MB
+Progress (1): 7.3/8.6 MB
+Progress (1): 7.3/8.6 MB
+Progress (1): 7.3/8.6 MB
+Progress (1): 7.3/8.6 MB
+Progress (1): 7.4/8.6 MB
+Progress (1): 7.4/8.6 MB
+Progress (1): 7.4/8.6 MB
+Progress (1): 7.4/8.6 MB
+Progress (1): 7.4/8.6 MB
+Progress (1): 7.4/8.6 MB
+Progress (1): 7.5/8.6 MB
+Progress (1): 7.5/8.6 MB
+Progress (1): 7.5/8.6 MB
+Progress (1): 7.5/8.6 MB
+Progress (1): 7.5/8.6 MB
+Progress (1): 7.5/8.6 MB
+Progress (1): 7.6/8.6 MB
+Progress (1): 7.6/8.6 MB
+Progress (1): 7.6/8.6 MB
+Progress (1): 7.6/8.6 MB
+Progress (1): 7.6/8.6 MB
+Progress (1): 7.6/8.6 MB
+Progress (1): 7.7/8.6 MB
+Progress (1): 7.7/8.6 MB
+Progress (1): 7.7/8.6 MB
+Progress (1): 7.7/8.6 MB
+Progress (1): 7.7/8.6 MB
+Progress (1): 7.7/8.6 MB
+Progress (1): 7.7/8.6 MB
+Progress (1): 7.7/8.6 MB
+Progress (1): 7.8/8.6 MB
+Progress (1): 7.8/8.6 MB
+Progress (1): 7.8/8.6 MB
+Progress (1): 7.8/8.6 MB
+Progress (1): 7.8/8.6 MB
+Progress (1): 7.8/8.6 MB
+Progress (1): 7.8/8.6 MB
+Progress (1): 7.8/8.6 MB
+Progress (1): 7.9/8.6 MB
+Progress (1): 7.9/8.6 MB
+Progress (1): 7.9/8.6 MB
+Progress (1): 7.9/8.6 MB
+Progress (1): 7.9/8.6 MB
+Progress (1): 7.9/8.6 MB
+Progress (1): 8.0/8.6 MB
+Progress (1): 8.0/8.6 MB
+Progress (1): 8.0/8.6 MB
+Progress (1): 8.0/8.6 MB
+Progress (1): 8.0/8.6 MB
+Progress (1): 8.0/8.6 MB
+Progress (1): 8.1/8.6 MB
+Progress (1): 8.1/8.6 MB
+Progress (1): 8.1/8.6 MB
+Progress (1): 8.1/8.6 MB
+Progress (1): 8.1/8.6 MB
+Progress (1): 8.1/8.6 MB
+Progress (1): 8.2/8.6 MB
+Progress (1): 8.2/8.6 MB
+Progress (1): 8.2/8.6 MB
+Progress (1): 8.2/8.6 MB
+Progress (1): 8.2/8.6 MB
+Progress (1): 8.2/8.6 MB
+Progress (1): 8.2/8.6 MB
+Progress (1): 8.3/8.6 MB
+Progress (1): 8.3/8.6 MB
+Progress (1): 8.3/8.6 MB
+Progress (1): 8.3/8.6 MB
+Progress (1): 8.3/8.6 MB
+Progress (1): 8.3/8.6 MB
+Progress (1): 8.4/8.6 MB
+Progress (1): 8.4/8.6 MB
+Progress (1): 8.4/8.6 MB
+Progress (1): 8.4/8.6 MB
+Progress (1): 8.4/8.6 MB
+Progress (1): 8.4/8.6 MB
+Progress (1): 8.5/8.6 MB
+Progress (1): 8.5/8.6 MB
+Progress (1): 8.5/8.6 MB
+Progress (1): 8.5/8.6 MB
+Progress (1): 8.5/8.6 MB
+Progress (1): 8.5/8.6 MB
+Progress (1): 8.6/8.6 MB
+Progress (1): 8.6 MB    
+                    
+Downloaded from aliyunmaven: https://maven.aliyun.com/repository/public/org/bouncycastle/bcprov-jdk18on/1.79/bcprov-jdk18on-1.79.jar (8.6 MB at 2.3 MB/s)
+[INFO] 
+[INFO] --- resources:3.5.0:resources (default-resources) @ campus-activity-server ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.15.0:compile (default-compile) @ campus-activity-server ---
+[INFO] Recompiling the module because of changed dependency.
+[INFO] Compiling 1 source file with javac [debug parameters release 21] to target\classes
+[INFO] ��������·���з�����һ�����������������������
+  ��ע������δ�����а�� javac ���ܻ������ע������
+  �������ٰ�����ָ����һ���������� (-processor)��
+  ��ָ��������·�� (--processor-path, --processor-module-path)��
+  ����ʽ��������ע���� (-proc:only, -proc:full)��
+  ��ʹ�� -Xlint:-options ���ش���Ϣ��
+  ��ʹ�� -proc:none ������ע������
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  13.732 s
+[INFO] Finished at: 2026-11-12T09:57:49+08:00
+[INFO] ------------------------------------------------------------------------

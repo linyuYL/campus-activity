@@ -1,0 +1,8 @@
+检查日期：2026-11-12（UTC+08:00）
+JDK：21.0.8
+Maven：3.9.16
+Maven home：D:\Tools\apache-maven-3.9.16
+Java home：D:\Tools\Java
+Git：2.52.0.windows.1
+MySQL / Redis：尚未验证连接
+项目状态：仅创建目录与文档，尚未开始 B01
